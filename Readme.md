@@ -60,6 +60,10 @@ VS Code – Development environment
 
 ![Player 2 Wins](./screenshots/Screenshot%202025-12-01%20072958.png)
 
+### 🎲 Game Output — Draw
+
+![Draw Game](./screenshots/Screenshot%202025-12-01%20081518.png)
+
 ## ▶️ How to Run
 
 Clone the project:
